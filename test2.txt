@@ -1,0 +1,2 @@
+test 2
+is a new file in Vi editor
